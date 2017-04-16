@@ -1,5 +1,0 @@
-first line, waiting for other lines
-
-second
-
-gpl: all rights provided
